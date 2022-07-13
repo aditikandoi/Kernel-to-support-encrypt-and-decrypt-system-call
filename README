@@ -1,18 +1,6 @@
-## CSE-506 (Spring 2022) Homework Assignment #1
-
-NAME: Aditi Raj Kandoi
-
-SBU ID: 114395814
-
-EMAIL ID: akandoi@cs.stonybrook.edu
-
-
----
-
 ## Aim  
 To develop a Linux kernel that supports dynamic system calls with three basic operations that are encryption (-e), decryption (-d), and copy (-c) and write shell scripts to test the program.
 
----
 
 ## REQUIREMENTS
 
@@ -22,7 +10,6 @@ To develop a Linux kernel that supports dynamic system calls with three basic op
 
 * Valid Input file to encrypt, decrypt and copy the data.
 
----
 
 
 ## FILES
@@ -35,7 +22,6 @@ To develop a Linux kernel that supports dynamic system calls with three basic op
 - /usr/src/hw1-akandoi/CSE-506/MakeFile
 - /usr/src/hw1-akandoi/CSE-506/kernel.config
 
----
 
 ## SYSTEM DESIGN
 ##### A. USER MODULE (xhw1.c)
@@ -123,7 +109,6 @@ The valid commands by a user are:
   * -EACCES (invalid access)
   * -ENOENT (invalid file or directory)
 
----
 
 ## TEST CASES
 
@@ -140,7 +125,6 @@ The valid commands by a user are:
  
     To run the test cases, use 'sh run_shell_scripts" on command line. This will run all the tests.
 
----
 
 ## REFERENCES
   * https://www.geeksforgeeks.org/getopt-function-in-c-to-parse-command-line-arguments/
