@@ -1,9 +1,8 @@
-**AIM**
-========
+## AIM
 To develop a Linux kernel that supports dynamic system calls with three basic operations that are encryption (-e), decryption (-d), and copy (-c) and write shell scripts to test the program.
 
 
-**REQUIREMENTS**
+## REQUIREMENTS
 
 * The system call sys_crytocopy() is implemented in Linux vanilla 5.X, which compiles the user and the kernel module code.
   
@@ -13,7 +12,7 @@ To develop a Linux kernel that supports dynamic system calls with three basic op
 
 
 
-**FILES**
+## FILES
 
 - /usr/src/hw1-akandoi/CSE-506/README.md
 - /usr/src/hw1-akandoi/CSE-506/input_arguments.h
