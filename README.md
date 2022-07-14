@@ -142,3 +142,4 @@ The valid commands by a user are:
   * https://stackoverflow.com/questions/37897767/error-handling-checking-in-the-kernel-realm
   * https://elixir.bootlin.com/linux/latest/source/Documentation/crypto/api-intro.txt
   * https://www.kernel.org/doc/htmldocs/filesystems/API-vfs-unlink.html
+  * https://docs.google.com/document/d/1SZzhy36R6oHlEzg-kZLoSInbpQpxhbEzoHUnpi6YiUM/edit
